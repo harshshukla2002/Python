@@ -1,6 +1,4 @@
 # use built in functions in class object
-
-
 class Book:
     def __init__(self, book, author, pages):
         self.book = book
